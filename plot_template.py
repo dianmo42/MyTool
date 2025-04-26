@@ -1,3 +1,6 @@
+## This script generates a plot using matplotlib with specific formatting and styles.
+## Required libraries: numpy, matplotlib
+
 import numpy as np
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
